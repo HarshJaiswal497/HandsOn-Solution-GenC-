@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 20px;
+}
+.currency-box {
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+  color: #2e7d32; 
+}
+
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+}
